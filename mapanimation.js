@@ -48,7 +48,7 @@ function move() {
     marker.setLngLat(busStops[counter]);
     counter++;
     move();
-  }, 1000);
+  }, 2000);
 }
 
 // Do not edit code past this point
