@@ -1,2 +1,2 @@
-# Real-Time-Bus-Tracker
-This bus tracker will follow the bus routes of my neighborhood.
+# Real-Time-Restaurant-Tracker
+This restaurant tracker will locate the best Ethiopian restaurants in DMV area.
